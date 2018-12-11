@@ -5,3 +5,12 @@
 !/glew/
 !/glm/
 !/Week9Application/
+
+/Week9Application/Debug/
+/Week9Application/Release/
+
+*.sln
+*.aps
+*.rc
+*.vcxproj
+*.vcxproj.*
